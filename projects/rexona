@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Soap Relaunch Automation Project</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+max-width:1000px;
+margin:auto;
+padding:30px;
+line-height:1.7;
+}
+
+img{
+width:100%;
+max-width:900px;
+border-radius:10px;
+margin-bottom:20px;
+}
+
+h1{color:#2563eb;}
+
+.back{
+display:inline-block;
+margin-top:20px;
+padding:10px 20px;
+background:#2563eb;
+color:white;
+text-decoration:none;
+border-radius:8px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>New Soap Relaunch – Line Transformation & Automation</h1>
+
+<img src="../images/rexona.jpg" alt="Rexona Project">
+
+<h2>Description</h2>
+
+<p>
+Led the complete transformation of the Rexona soap packing cascade through a phased automation strategy to improve productivity, quality and labour efficiency.
+</p>
+
+<h2>Key Actions</h2>
+
+<ul>
+<li>Commissioned refurbished cartoning machine.</li>
+<li>Automated tablet feeding using pick-and-place technology.</li>
+<li>Implemented end-of-line automation.</li>
+<li>Modified idle equipment for reuse.</li>
+<li>Eliminated quality defects through process redesign.</li>
+</ul>
+
+<h2>Key Results</h2>
+
+<ul>
+<li>Capacity increased to 90 units per minute.</li>
+<li>Reduced manpower from 14 to 4 operators.</li>
+<li>Achieved 71% labour reduction.</li>
+<li>Improved productivity and OEE.</li>
+<li>Reduced quality defects.</li>
+</ul>
+
+<h2>Skills Gained</h2>
+
+<p>
+Automation • Mechanical Design • Equipment Commissioning • Lean Manufacturing • Project Engineering
+</p>
+
+<a href="../index.html" class="back">← Back to Portfolio</a>
+
+</body>
+</html>
