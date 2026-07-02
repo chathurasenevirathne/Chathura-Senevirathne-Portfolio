@@ -45,7 +45,13 @@ h2{
 .hero{
     min-height:100vh;
 
-    background:url('blueprint.jpg');
+    background:
+    linear-gradient(
+        rgba(15,23,42,0.75),
+        rgba(15,23,42,0.75)
+    ),
+    url('blueprint.jpg');
+
     background-size:cover;
     background-position:center center;
     background-repeat:no-repeat;
@@ -57,6 +63,7 @@ h2{
 
     color:white;
 }
+
 
 
 .hero img{
@@ -124,17 +131,22 @@ h2{
 
 
 .project-card{
-    padding:25px;
+    padding:35px;
     background:white;
     border-radius:12px;
     box-shadow:0 5px 20px rgba(0,0,0,0.08);
+    border-left:5px solid #2563eb;
     transition:0.3s;
 }
 
 .project-card:hover{
+    transform:translateY(-6px);
+}
+
 .project-card h3{
     color:#0f172a;
     margin-bottom:15px;
+    font-size:1.5rem;
 }
 
 .project-card h4{
@@ -155,7 +167,6 @@ h2{
 .project-card li{
     margin-bottom:6px;
 }
-
 .project-card{
     padding:35px;
     background:white;
@@ -573,10 +584,6 @@ Led the overhaul and life-extension program of ACMA 325 Cartoner and ACMA 741 Wr
 
 <h4>Skills</h4>
 <p>Mechanical Engineering • Reliability Engineering • Cost Optimization • Asset Management</p>
-</div>
-
-</div>
-
 </div>
 
 </div>
