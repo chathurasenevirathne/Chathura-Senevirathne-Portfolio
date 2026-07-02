@@ -1,0 +1,33 @@
+
+{
+  title: "Rainwater Harvesting & Treatment Plant Implementation",
+  subtitle: "Supply Chain Hero Award Winner - 2022",
+
+  description:
+    "Led the implementation of a rainwater harvesting and treatment system to improve factory water sustainability and reduce dependence on conventional water sources.",
+
+  actions: [
+    "Installed 100-ton rainwater storage tank",
+    "Integrated Ultrafiltration system",
+    "Implemented pH adjustment and chlorination system",
+    "Optimized existing treatment assets",
+    "Managed project execution and commissioning"
+  ],
+
+  results: [
+    "25% contribution to factory water consumption",
+    "Improved factory water security",
+    "Enabled safe operational use of harvested rainwater",
+    "Completed within budget and schedule"
+  ],
+
+  skills: [
+    "Project Management",
+    "Utilities Engineering",
+    "Sustainability",
+    "Water Treatment",
+    "Commissioning"
+  ],
+
+  image: "/images/rainwater.jpg"
+}
